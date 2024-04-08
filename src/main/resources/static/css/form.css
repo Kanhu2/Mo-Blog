@@ -1,0 +1,36 @@
+.form-container {
+    border: 1px solid #fff;
+    padding: 1rem;
+}
+
+.form-container h2 {
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+
+.form-group {
+    margin-block: 1rem;
+}
+
+label {
+    display: block;
+    margin-block: 0.5rem;
+}
+
+.form-control {
+    width: 100%;
+    font-size: 1.02rem;
+    padding-inline: 5px;
+    background-color: rgb(13, 13, 77);
+}
+
+input[type="submit"] {
+    outline: none;
+    border: none;
+    background-color: seagreen;
+    padding: 0.6rem 1.5rem;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 1.03rem;
+    box-shadow: 0 0 10px #ccc;
+}

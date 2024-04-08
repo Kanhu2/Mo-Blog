@@ -1,0 +1,11 @@
+server:
+  port: 1202
+
+spring:
+  datasource:
+    url: ${url}
+    username: root
+    password: Biswajit2002
+
+# prefix: JT
+prefix: "JT:"
